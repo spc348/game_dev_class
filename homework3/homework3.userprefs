@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Scripts/clickToMoveRigidBody.cs">
+    <Files>
+      <File FileName="../project 3/Assets/charMotor.cs" Line="1" Column="1" />
+      <File FileName="../project 3/Assets/clickMove.cs" Line="27" Column="3" />
+      <File FileName="../project 3/Assets/Standard Assets/Scripts/physicsScriptPrac.cs" Line="9" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/clickToMoveRigidBody.cs" Line="15" Column="16" />
+      <File FileName="Assets/Standard Assets/Scripts/rigidbodyMotor.cs" Line="7" Column="12" />
+      <File FileName="Assets/Standard Assets/Scripts/clickMove.cs" Line="25" Column="95" />
+      <File FileName="Assets/Standard Assets/Scripts/charMotor.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
