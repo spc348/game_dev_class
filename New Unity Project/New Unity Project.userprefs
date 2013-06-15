@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Scripts/charMotor.cs">
+    <Files>
+      <File FileName="../game_dev_class/project 3/Assets/charMotor.cs" Line="14" Column="2" />
+      <File FileName="../game_dev_class/project 3/Assets/clickMove.cs" Line="27" Column="3" />
+      <File FileName="../game_dev_class/project 3/Assets/Standard Assets/Scripts/physicsScriptPrac.cs" Line="30" Column="5" />
+      <File FileName="../game_dev_class/Project 1/Assets/scripts/Ufo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/triggerJump.cs" Line="17" Column="84" />
+      <File FileName="Assets/Standard Assets/Scripts/charMotor.cs" Line="24" Column="3" />
+      <File FileName="Assets/coinBehavior.cs" Line="13" Column="29" />
+      <File FileName="Assets/coinCounter.cs" Line="13" Column="24" />
+      <File FileName="Assets/fireBehavior.cs" Line="18" Column="4" />
+      <File FileName="Assets/cameraLookat.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
