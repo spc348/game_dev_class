@@ -25,7 +25,7 @@ public class clickToMoveRigidBody : MonoBehaviour {
 			
 		    Vector3 moveVector = destination - rbody.transform.position;
 			Debug.DrawRay(rbody.transform.position, moveVector);
-			rbody.transform.Translate(moveVector.normalized * speed * Time.smoothDeltaTime);
+			rbody.AddForce(moveVector.normalized * speed * Time.smoothDeltaTime,ForceMode.Impulse);
 		}
 		
 		
