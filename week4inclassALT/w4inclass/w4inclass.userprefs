@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fishAnimator.cs">
+    <Files>
+      <File FileName="Assets/fishMove.cs" Line="12" Column="17" />
+      <File FileName="Assets/spawnFish.cs" Line="26" Column="3" />
+      <File FileName="Assets/fishTrail.cs" Line="33" Column="28" />
+      <File FileName="Assets/fishAnimator.cs" Line="18" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
