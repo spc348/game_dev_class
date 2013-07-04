@@ -24,6 +24,13 @@ public class Shooting : MonoBehaviour {
 			audio.PlayOneShot(clip);
 			StartCoroutine(FiringShake());
 		}
+		
+		if(Input.GetMouseButton(1))
+		{
+			camera.fieldOfView = 24; 
+		}
+		else
+			camera.fieldOfView = 48;
 	}
 	
 	IEnumerator FiringShake()

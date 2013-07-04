@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/level 1 scripts/level1done.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/level 2 scripts/Shooting.cs">
     <Files>
-      <File FileName="Assets/Scripts/GUILevelLoader.cs" Line="23" Column="33" />
-      <File FileName="Assets/Scripts/level 3 scripts/visitingTeamBallHandling.cs" Line="27" Column="9" />
-      <File FileName="Assets/Scripts/Targeting.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/level 1 scripts/level1done.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/level 1 scripts/raquetTrigger.cs" Line="44" Column="28" />
+      <File FileName="Assets/Scripts/level 1 scripts/levelDividerController.cs" Line="33" Column="3" />
+      <File FileName="Assets/Scripts/level 2 scripts/Shooting.cs" Line="33" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

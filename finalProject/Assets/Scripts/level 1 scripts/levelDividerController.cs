@@ -11,11 +11,9 @@ public class levelDividerController : MonoBehaviour {
 	public GameObject ball;
 	public GameObject player;
 	public int life = 9;
-	Vector3 level2camPOS = new Vector3(1f,3f,8.5f); 
 	Vector3 level2ballPOS = new Vector3(.5f,1f,20f);
 	Vector3 level2playerPOS = new Vector3(.5f,1f,19f);
 	public int hitCount = 0;
-	Quaternion level2camrot = new Quaternion(5f,360f,360f,0f);
 	
 	// Use this for initialization
 	void Start () {
@@ -27,12 +25,12 @@ public class levelDividerController : MonoBehaviour {
 		{
 		ball.transform.position = level2ballPOS;
 		player.transform.position = level2playerPOS;
-		camera.transform.position = level2camPOS;
-			camera.transform.rotation = level2camrot;
+		camera.transform.Translate(new Vector3 (0f,1.5f,23f));
 		renderer.enabled = false;
 		levelDone = false;
 		controller.SendMessage("DividerDown", SendMessageOptions.DontRequireReceiver);
 		}
+		
 	}
 	
 	void BlockDown()

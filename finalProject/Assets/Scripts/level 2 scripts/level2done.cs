@@ -21,7 +21,7 @@ public class level2done : MonoBehaviour {
 		if (dividersLeft == 0){
 			done = true;
 				audio.PlayOneShot(clip);
-			Application.LoadLevel ("soccer");
+			Application.LoadLevel("tennis");
 		}
 	}
 	
